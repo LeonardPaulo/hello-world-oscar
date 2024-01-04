@@ -1,4 +1,5 @@
 def max (n1, n2):
+    print ("Hola Mundo")
     if n1 < n2:
         print (n2)
     elif n2 < n1:
